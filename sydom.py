@@ -15,8 +15,8 @@ import os
 ######################################
 ############
 API_path_bmex = 'wss://www.bitmex.com/realtime'
-API_key_bmex = ''
-API_secret_bmex = ''
+API_key_bmex = 'G8UcRw5_uoqt3S63JLW3a3O8'
+API_secret_bmex = 'V8R50JDGGI4wX3oK9V_rxsKPLYlwcJ4wjX-nGAbw4n6CPiQF'
 ############
 instrument_bmex = "ETHUSD"
 pos_size = 10
